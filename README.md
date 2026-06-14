@@ -1,6 +1,7 @@
 # Intelligent Finance Mentor
 
 A full-stack project for finance learning and trading guidance with:
+
 - A FastAPI backend for auth and API services
 - A React frontend for dashboards and mentoring UI
 - ML scripts for historical data processing and strategy experimentation
